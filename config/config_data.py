@@ -1,0 +1,10 @@
+class TestData:
+    chrome_executablepath = "C:/Users/hp/Desktop/browerDriver/chromedriver.exe"
+    fireFox_executablepath = "C:/Users/hp/Desktop/browerDriver/geckodriver.exe"
+    baseUrl = "https://www.facebook.com/"
+    USER_NAME = "adityyasingh6010@gmail.com"
+    PASSWORD = "$ingh@ditya22"
+    LOGIN_PAGE_TITLE = "Facebook – log in or sign up"
+    PROFILE_PAGE_TITLE = "Facebook – log in or sign up"
+    PROFILE_NAME = "Aditya Singh"
+    NUMBER_VERIFY = "086208 12140"
